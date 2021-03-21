@@ -76,3 +76,11 @@ article#main-col {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+footer {
+  background-color: #000;
+  text-align: center;
+  color: #eee;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}

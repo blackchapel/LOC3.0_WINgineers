@@ -96,10 +96,18 @@ ul li.active a {
   transition: 0.4s;
 }
 
-body {
+.bg {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url(../images/1.jpg);
   height: 100vh;
   background-size: cover;
   background-position: center;
+}
+
+footer {
+  background-color: #000;
+  text-align: center;
+  color: #eee;
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
